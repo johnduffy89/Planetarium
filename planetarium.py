@@ -1,0 +1,8 @@
+Mercury = planet("Mercury", "Gray", "terrestrial")
+Venus = planet("Venus", "Red", "terrestrial")
+Earth = planet("Earth", "Blue", "terrestrial")
+Mars = planet("Mars", "Red", "terrestrial")
+Jupiter = planet("Jupiter", "Orange", "gas giant")
+Saturn = planet("Saturn", "yellow", "gas giant")
+Neptune = planet("Neptune", "blue", "gas giant")
+Uranus = planet("Uranus", "Blue", "gas giant")
